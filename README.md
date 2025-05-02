@@ -31,8 +31,9 @@ Dataset includes 5 different related tables, including: campaign, customer, devi
 - Customers will be divided into acquisition cohorts depending on the month of their first purchase (cohort month)
 - The cohort index would then be assigned to each of the customer’s purchases, which will represent the number of months since the first transaction
 ---
-## II. Data Visualization with Python
-Because of the lack of data in 2020 and 2020 (due to the COVID pandemic), I analyzed data from 2019 and 2022
+## II. Data Visualization with Python  
+Because of the lack of data in 2020 and 2020 (due to the COVID pandemic), I analyzed data from 2019 and 2022  
+
 ![image](https://github.com/user-attachments/assets/248f7253-7279-4d6b-9098-14310015717a)
 ![image](https://github.com/user-attachments/assets/4f0faf00-fe4f-4541-98ac-bd9cfe6a3194)
 ---
