@@ -38,7 +38,34 @@ Because of the lack of data in 2020 and 2020 (due to the COVID pandemic), I anal
 ![image](https://github.com/user-attachments/assets/4f0faf00-fe4f-4541-98ac-bd9cfe6a3194)
 ---
 ## III. Insights
-
+### 1. Retention Trends in 2019
+- **Sharp Decline in Early Months:** After the first month (100%), retention rates fall drastically, typically dropping below 5% by Month 2 and continuing to decrease steadily.
+- **Low Long-term Retention:** Most cohorts fall below 3% retention by Month 5 or 6, indicating limited customer stickiness.
+- **No Strong Cohorts:** None of the monthly cohorts show consistent or improving retention trends. Even large acquisition months like May and April (3226 and 2922 users) don’t retain well.
+- **Volatile Retention:** The rate fluctuates (e.g., Jan’s Month 6 jumps to 3% then down again), suggesting inconsistency in user experience or product engagement.
+### 2. Retention Trends in 2022
+- **Improved Short-Term Retention:** Many cohorts in 2022, especially Jan, Mar, and Apr, show stronger early-month retention (e.g., 7%, 5%, 5% in Month 1).
+- **Slightly Better Long-Term Retention:** Some cohorts maintain 3–5% retention up to Month 6–8, an improvement over 2019.
+- **More Stable Behavior:** Retention values don’t fluctuate as wildly, indicating a more consistent customer experience.
+- **High Acquisition, Mixed Retention:** Despite a surge in new users in mid-2022 (e.g., July: 13,630), retention remains low (~2–3%), revealing a potential gap between marketing and product delivery.
 ---
 ## IV. Recommendations
+### 1. Onboarding Experience Optimization
+- Users drop off sharply after the first interaction. Improve onboarding journeys, with clear value propositions and smoother first-time experiences.
+- Use interactive guides, in-app tutorials, and early incentives to help users understand how to derive value quickly.
+### 2. User Segmentation & Targeted Engagement
+- Segment customers by behavior (e.g., active vs. churn-risk users) and run personalized email/SMS/web campaigns.
+- Use RFM or cohort-based behavior triggers to re-engage customers within the first 2–3 months of drop-off.
+### 3. Improve Product Stickiness
+- Add habit-forming features: notifications, progress tracking, and gamification.
+- Identify and amplify “aha moments”—core value interactions that lead to retention—and ensure users hit them early.
+### 4. Leverage Feedback Loops
+- Run surveys or usability tests for cohorts with low Month 2–3 retention to identify pain points.
+- Deploy exit-intent surveys or follow-up feedback for churned users.
+### 5. Lifecycle Marketing Automation
+- Implement automated retention flows (email, in-app nudges) for users at risk of churn.
+- Re-engage dormant users with value-based messages or exclusive offers.
+### 6. Continuous Monitoring & Testing
+- A/B test onboarding flows, feature releases, and content delivery methods to identify what improves retention.
+- Visualize monthly cohort KPIs over time to track the impact of initiatives.
 ---
