@@ -1,5 +1,4 @@
 # Python_Cohort_Analysis
-Please see the coding file attached or reach the link below:
 ## I. Introduction
 ### 1. Business questions
 - The Company is a digital service provider. The Marketing Department wants to launch targeted campaigns to re-engage inactive users and reward loyal customers. These campaigns are planned around key times of the year, such as major holidays and product launches.
