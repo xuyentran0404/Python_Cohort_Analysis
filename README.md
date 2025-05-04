@@ -63,4 +63,3 @@ Because of the lack of data in 2020 and 2020 (due to the COVID pandemic), I anal
 ### 6. Continuous Monitoring & Testing
 - A/B test onboarding flows, feature releases, and content delivery methods to identify what improves retention.
 - Visualize monthly cohort KPIs over time to track the impact of initiatives.
----
